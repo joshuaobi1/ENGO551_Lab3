@@ -16,6 +16,8 @@ static/js/main.js: Contains JavaScript code for initializing the Leaflet map, ha
 
 static/css/style.css: Custom CSS styles for the application. It ensures the application is visually appealing and user-friendly across different devices.
 
+requirements.txt: A list of Python package dependencies required to run the application.
+
 
 Additional Information
 
